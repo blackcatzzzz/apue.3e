@@ -1,3 +1,7 @@
+## Advanced UNIX Envirnoment Programming - Third Edition
+
+## Introduction
+
 Read the file called DISCLAIMER.
 
 On Freebsd, type "gmake".
@@ -8,3 +12,6 @@ Please direct questions, suggestions, and bug reports to sar@apuebook.com.
 
 Steve Rago
 January 2013
+
+## NOTE
+APUE 3E 学习笔记
